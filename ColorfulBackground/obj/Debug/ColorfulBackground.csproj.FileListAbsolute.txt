@@ -1,0 +1,9 @@
+C:\Programming\On My Own\ColorfulBackground\ColorfulBackground\bin\Debug\ColorfulBackground.exe.config
+C:\Programming\On My Own\ColorfulBackground\ColorfulBackground\bin\Debug\ColorfulBackground.exe
+C:\Programming\On My Own\ColorfulBackground\ColorfulBackground\bin\Debug\ColorfulBackground.pdb
+C:\Programming\On My Own\ColorfulBackground\ColorfulBackground\obj\Debug\ColorfulBackground.csprojResolveAssemblyReference.cache
+C:\Programming\On My Own\ColorfulBackground\ColorfulBackground\obj\Debug\ColorfulBackground.exe
+C:\Programming\On My Own\ColorfulBackground\ColorfulBackground\obj\Debug\ColorfulBackground.pdb
+C:\Programming\Git_Stuff\ColorfulBackground\ColorfulBackground\bin\Debug\ColorfulBackground.exe.config
+C:\Programming\Git_Stuff\ColorfulBackground\ColorfulBackground\obj\Debug\ColorfulBackground.exe
+C:\Programming\Git_Stuff\ColorfulBackground\ColorfulBackground\obj\Debug\ColorfulBackground.pdb
